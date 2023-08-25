@@ -1,2 +1,2 @@
 # Portfolio_Projects
-### This is a repository that would hold various personal projects on SQL.
+### This is a repository that would hold various personal practice projects on SQL.
